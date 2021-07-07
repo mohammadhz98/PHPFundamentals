@@ -18,4 +18,4 @@
     /* 
         Last statement line does not require a semi-colon and nor the closing tag (?>)
     */
-    echo "some php code"
+    echo "some php code";
