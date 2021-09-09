@@ -29,12 +29,12 @@
     */
     function zTest() {
         $z = 5; // local scope
-        echo "<p>Variable x inside function is: $z</p>";
+        echo "<p>Variable z inside function is: $z</p>";
       }
       zTest();
       
-      // using x outside the function will generate an error
-      echo "<p>Variable x outside function is: $z</p>";
+      // using z outside the function will generate an error
+      echo "<p>Variable z outside function is: $z</p>";
 
 
 
